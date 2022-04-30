@@ -1,0 +1,32 @@
+{
+    "name": "Ecoleta",
+    "short_description": "Marketplace de coleta de resíduos.",
+    "description": "O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.",
+    "images": [
+      "https://raw.githubusercontent.com/ganimedes96/Ecoleta/main/.github/ecoleta.png"
+    ],
+    "videos": [
+        "https://raw.githubusercontent.com/ganimedes96/Ecoleta/main/.github/eco.mp4"
+    ],
+    "link_preview": "https://github.com/ganimedes96/Ecoleta",
+    "techs": [
+      {
+        "name": "Node.js",
+        "url": "https://nodejs.org/en/"
+      },
+      {
+          "name":"Express",
+          "url":"https://expressjs.com/pt-br/"
+      },
+      
+      {
+        "name": "SQLite",
+        "url": "https://www.sqlite.org/index.html"
+      },
+      {
+        "name": "Nunjucks",
+        "url": "https://mozilla.github.io/nunjucks/"
+      }
+      
+    ]
+  }
